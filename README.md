@@ -1,5 +1,5 @@
 # todo-list-example
-
+![Alt Screenshot](https://github.com/DylanAvernon/todo-list-example/blob/main/projects-list.JPG)
 ## How to use the app
 Use the remove button associated with each project to remove that project from the list. You can add a new project by using the form fields and the submit button beneath the list.
 
